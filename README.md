@@ -6,7 +6,7 @@ This repository contains my solutions and progress for the 2025 [Advent of Code]
 | Day | Code Language |
 |-----|---------------|
 |  1  | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-|  2  | SOON          |
+|  2  | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) |
 |  3  | SOON          |
 |  4  | SOON          |
 |  5  | SOON          |
