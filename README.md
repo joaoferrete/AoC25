@@ -7,7 +7,7 @@ This repository contains my solutions and progress for the 2025 [Advent of Code]
 |-----|---------------|
 |  1  | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 |  2  | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) |
-|  3  | SOON          |
+|  3  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 |  4  | SOON          |
 |  5  | SOON          |
 |  6  | SOON          |
